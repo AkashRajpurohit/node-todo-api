@@ -14,5 +14,10 @@ I created the Backend with testing and deployment of the backend on heroku. Taru
 
 and many more...
 
+## You can find API Documentation in the following link
+[Api docs](https://documenter.getpostman.com/view/4346639/S1EQSxVj)
+
+### For any queries drop a mail here - akash009.dev@gmail.com
+
 ## Visit my portfolio at-
 [Akash Rajpurohit](https://akashrajpurohit.cf)
